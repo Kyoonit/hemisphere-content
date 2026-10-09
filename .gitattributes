@@ -1,0 +1,2 @@
+# Signed content: never convert line endings (a single byte changed breaks the signature)
+* -text
